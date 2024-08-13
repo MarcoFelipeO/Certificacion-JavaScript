@@ -3,7 +3,7 @@ function revisarEdad(edad){
     if(edad > 40 && edad <50){
         return "Realizar examen";
     }
-        return "No realizar examen";
+        return "No realizar examen" ;
 }
 
 
