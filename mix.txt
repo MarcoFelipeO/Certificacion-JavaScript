@@ -1,0 +1,16 @@
+/* Escribe tu código aquí */
+function mix(palabra1,palabra2){
+    const contar1 = palabra1.length /2;
+    const contar2 = palabra2.length /2;
+    
+    const primeraMitad = palabra1.substring(0,contar1);
+    const segundaMitad = palabra2.substring(contar2);
+
+    const mezcla = (primeraMitad+segundaMitad).toLowerCase();
+
+    return mezcla;
+}
+
+
+
+/* Fin */
