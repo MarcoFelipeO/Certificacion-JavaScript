@@ -7,6 +7,6 @@ function textoLargoCorto(texto){
     return "Poco texto";
 }
 
-
+console.log(textoLargoCorto("COMO ESTAS AMIGO COMO TE HA IDO ESTE DOMINGO?"));
 
 /* Fin */
