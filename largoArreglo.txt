@@ -1,0 +1,12 @@
+/* Escribe tu código aquí */
+function largoArreglo(nombres){
+
+    if(nombres.length >5){
+        return "muchos";
+    }
+    return "pocos";
+}   
+
+
+
+/* Fin */
