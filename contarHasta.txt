@@ -1,0 +1,14 @@
+/* Escribe tu código aquí */
+function contarHasta(numero){
+    i = 1;
+   while(i <= numero){
+       console.log(i);
+       i++;
+       }
+   }
+   /* Fin */
+   
+   
+   contarHasta(4)
+   contarHasta(12)
+   
