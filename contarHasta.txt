@@ -8,6 +8,7 @@ function contarHasta(numero){
    }
    /* Fin */
    
+ 
    
    contarHasta(4)
    contarHasta(12)
