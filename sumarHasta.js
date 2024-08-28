@@ -9,6 +9,6 @@ function sumarHasta(numero){
     return suma;
 }
 
-
+console.log(sumarHasta(3));
 
 /* Fin  */
