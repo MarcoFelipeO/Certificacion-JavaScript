@@ -4,9 +4,6 @@ function mostrarNumeros(inicio, fin){
         console.log(inicio);
     }
 }
-
-
-
 /* Fin */
 mostrarNumeros(4,9)
 mostrarNumeros(20,25)
