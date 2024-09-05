@@ -8,6 +8,7 @@ function lineasAlternadas(filas,columnas){
         }
     }
 }
+
 /* Fin */
 
 lineasAlternadas(4,6)
